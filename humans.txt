@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    isha isha@wisseninfotech isha.wissen.com
 
 # THANKS
 
